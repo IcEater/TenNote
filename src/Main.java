@@ -1,8 +1,8 @@
 
 public class Main {
-	static int main(String argv[])
+	public static void main(String argv[])
 	{
-		return 0;
+		int a;
+		int b;
 	}
-
 }
