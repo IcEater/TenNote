@@ -1,8 +1,8 @@
+import NoteData.*;
 
 public class Main {
 	public static void main(String argv[])
 	{
-		int a;
-		int b;
+		java.lang.System.out.print("Hello world");
 	}
 }
